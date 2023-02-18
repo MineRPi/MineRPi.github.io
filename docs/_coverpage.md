@@ -6,8 +6,6 @@
 
 * Simple and lightweight (~12kb gzipped)
 * Multiple themes
-* Not build static html files
 
 [Docsify文档](https://docsify.js.org/#/zh-cn/)
-
 [Get Started](/quick-start)
