@@ -8,5 +8,6 @@
 * Multiple themes
 * Not build static html files
 
-[GitHub](https://github.com/MineRPi)
+<small>[Docsify文档](https://docsify.js.org/#/zh-cn/)</small>
+
 [Get Started](/quick-start)
