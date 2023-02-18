@@ -8,6 +8,6 @@
 * Multiple themes
 * Not build static html files
 
-<small>[Docsify文档](https://docsify.js.org/#/zh-cn/)</small>
+[Docsify文档](https://docsify.js.org/#/zh-cn/)
 
 [Get Started](/quick-start)
