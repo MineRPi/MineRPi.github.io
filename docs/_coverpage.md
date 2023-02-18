@@ -1,6 +1,6 @@
 ![logo](/media/Gakki-s.jpg)
 
-# docsify
+# MineRPi-Notes
 
 > A magical documentation site generator.
 
@@ -8,5 +8,5 @@
 * Multiple themes
 * Not build static html files
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/MineRPi)
 [Get Started](/quick-start)
