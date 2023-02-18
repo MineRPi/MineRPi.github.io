@@ -1,12 +1,14 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+![logo](_media/icon.svg)
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+# docsify <small>3.5</small>
 
- 简单、轻便 (压缩后 ~21kB)
+> 一个神奇的文档网站生成器。
+
+- 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
 - 众多主题
 
-
-[开始使用 Let Go](/README.md)
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](/README.md)
