@@ -1,14 +1,12 @@
-<!-- _coverpage.md -->
+![logo](/media/Gakki-s.jpg)
 
-![logo](_media/icon.svg)
+# docsify
 
-# docsify <small>3.5</small>
+> A magical documentation site generator.
 
-> 一个神奇的文档网站生成器。
-
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+* Simple and lightweight (~12kb gzipped)
+* Multiple themes
+* Not build static html files
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](/README.md)
+[Get Started](/quick-start)
