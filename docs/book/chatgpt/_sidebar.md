@@ -1,2 +1,2 @@
-* [入门](/book/chatgpt/chatgpt.md)
-* [关于](/book/chatgpt/README.md)
+* [入门](/docs/book/chatgpt/chatgpt)
+* [关于](/docs/book/chatgpt/README)
