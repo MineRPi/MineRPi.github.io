@@ -8,5 +8,9 @@
 * Multiple themes
 
 [Docsify文档](https://docsify.js.org/#/zh-cn/)
-[Get Started](/quick-start)
 [Get Chatgpt](/book/chatgpt/chatgpt)
+[Get Started](/quick-start)
+
+
+<!-- 背景图片 -->
+![](https://api.dujin.org/bing/1920.php)
