@@ -1,4 +1,4 @@
-![logo](/media/coverpage.png)
+![logo](/media/coverpage-l.png)
 
 # MineRPi-Notes
 
