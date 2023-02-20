@@ -7,7 +7,5 @@
 [看看风景吧](https://api.dujin.org/bing/1920.php)
 [开始阅读](/README.md)
 
-
-
 <!-- 背景封面from bing -->
 ![](https://api.dujin.org/bing/1920.php)
