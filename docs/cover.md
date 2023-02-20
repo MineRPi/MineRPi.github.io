@@ -13,4 +13,6 @@
 
 
 <!-- 背景图片 -->
-![](https://api.dujin.org/bing/1920.php)
+<!-- ![](https://api.dujin.org/bing/1920.php) -->
+
+<!-- ![color](#2f4253) -->
