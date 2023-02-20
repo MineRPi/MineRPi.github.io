@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">JL-NoteBook</h1>
 
-[看看风景吧](https://api.dujin.org/bing/1920.php)
+[每日一图](https://api.dujin.org/bing/1920.php)
 [开始阅读](/README.md)
 
 <!-- 背景封面from bing -->
