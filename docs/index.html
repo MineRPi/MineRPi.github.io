@@ -36,7 +36,7 @@
             // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
             loadNavbar: true,
             // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
-            coverpage: 'cover.md',
+            coverpage: true,
             onlyCover: true,
             // 最大支持渲染的标题层级
             maxLevel: 5,
@@ -53,18 +53,22 @@
             }
         }
     </script>
-    <script src="https://cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js">
+    <script>
         // 搜索配置(url：https://docsify.js.org/#/zh-cn/plugins?id=%e5%85%a8%e6%96%87%e6%90%9c%e7%b4%a2-search)
         window.$docsify = {
-            // search: 'auto',
             search: {
                 maxAge: 86400000,// 过期时间，单位毫秒，默认一天
                 paths: auto,// 注意：仅适用于 paths: 'auto' 模式
                 placeholder: '搜索',
+                // 支持本地化
+                placeholder: {
+                    '/zh-cn/': '搜索',
+                    '/': 'Type to search'
+                },
                 noData: '找不到结果',
                 depth: 4,
                 hideOtherSidebarContent: false,
-                namespace: '搜索文档内容',
+                namespace: 'Docsify-Guide',
             }
         }
     </script>
@@ -75,7 +79,7 @@
     <!-- 图片放大缩小支持 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
     <!-- 搜索功能支持 -->
-    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
     <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
     <!--它提供了统计中文汉字和英文单词的功能，并且排除了一些markdown语法的特殊字符例如*、-等-->
@@ -85,15 +89,15 @@
     <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
-    <!-- <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script> -->
-    <!-- <script src="//unpkg.com/prismjs/components/prism-sql.min.js"></script> -->
-    <!-- <script src="//unpkg.com/prismjs/components/prism-powershell.min.js"></script> -->
-    <!-- <script src="//unpkg.com/prismjs/components/prism-sass.min.js"></script> -->
+  <!-- <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script> -->
+  <!-- <script src="//unpkg.com/prismjs/components/prism-sql.min.js"></script> -->
+  <!-- <script src="//unpkg.com/prismjs/components/prism-powershell.min.js"></script> -->
+  <!-- <script src="//unpkg.com/prismjs/components/prism-sass.min.js"></script> -->
     <script src="//unpkg.com/prismjs/components/prism-scss.min.js"></script>
-    <!-- <script src="//unpkg.com/docsify"></script> -->
-    <!--代码高亮主题 https://github.com/PrismJS/prism/tree/gh-pages/components -->
+  
+  <!--代码高亮主题 https://github.com/PrismJS/prism/tree/gh-pages/components -->
     <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"type="text/javascript">
     </script>
 </body>
-  
+
 </html>
